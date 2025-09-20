@@ -148,10 +148,10 @@ jupyter notebook model.ipynb
 If you use this work in your research, please cite:
 
 ```bibtex
-@misc{marburg_conspiracy_model_2024,
-  title={Marburg Virus Outbreak and Conspiracy Theory Search Dynamics: A Coupled Epidemic-Infodemic Model},
-  author={[Author Name]},
-  year={2024},
+@misc{fractional_epidemic_infodemic_2025,
+  title={A Fractional-Order Epidemic-Infodemic Model for Marburg Virus Outbreak: An Introduction to a Novel Predictive Framework},
+  author={Prachetas Shukla, Ranbir Singh, Prabakaran Raghavendran, Saikat Gochhait},
+  year={2025},
   url={https://github.com/Raj-2006-afk/Marburg-Virus-Outbreak-and-a-New-Conspiracy-Theory}
 }
 ```
